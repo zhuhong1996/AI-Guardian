@@ -37,7 +37,7 @@ This script will load the model trained in the previous step and improve the rob
 
 #### Generating Adversarial Examples
 
-We include a sample script to perform adversarial attacks using the [Carlini and Wagner Attack](https://arxiv.org/abs/1608.04644). Please run the following command.
+We include a sample script to perform adversarial attacks using the [Carlini and Wagner Attack](https://ieeexplore.ieee.org/abstract/document/7958570). Please run the following command.
 
 ```bash
 python CW_attack.py
